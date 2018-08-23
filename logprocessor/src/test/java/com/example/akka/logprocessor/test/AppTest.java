@@ -1,4 +1,4 @@
-package com.m800.akka.logprocessor;
+package com.example.akka.logprocessor.test;
 
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
